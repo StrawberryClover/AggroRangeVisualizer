@@ -1,0 +1,11 @@
+{
+    "Author": "StrawberryClover",
+    "Name": "Aggro Range Visualizer",
+    "Punchline": "An attempt at visualizing mob aggro range.",
+    "Description": "Not a perfect attempt, mind you.\r\nJust for fun, so I can prove a point to friends.\r\nValues are hard coded, and not accurate for many mobs. Take it with a grain of salt. Again, this is mostly just for fun, to try and visualize what the aggro radius of mobs would look like.",
+    "InternalName": "aggroRangeVisualizer",
+    "ApplicableVersion": "any",
+    "Tags": [
+    ],
+    "IconUrl": "https://1.bp.blogspot.com/--iIgq7znFOw/U4IHung6FbI/AAAAAAAAAbs/5JKAUZXSLH4/s1600/aggroradius.png"
+}
